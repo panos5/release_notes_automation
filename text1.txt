@@ -1,3 +1,4 @@
 Hello
 I fixed the file1
+Minor fix in the middle
 I fixed the file 1 again
