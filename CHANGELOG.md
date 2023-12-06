@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/JoBinsJP/AutomaticChangeLog/compare/v1.1.0...v1.1.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* Minor adjustment on file Refs:[#4321](undefined/undefined/undefined/issues/4321) 660032b
+
 ## [1.1.0](https://github.com/JoBinsJP/AutomaticChangeLog/compare/v1.0.0...v1.1.0) (2023-12-06)
 
 
