@@ -1,1 +1,2 @@
 I am a third text file
+Refactor file 3
