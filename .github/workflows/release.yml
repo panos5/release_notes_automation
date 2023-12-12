@@ -20,7 +20,7 @@ jobs:
       - name: "Create release"
         uses: "actions/github-script@v6"
         with:
-          github-token: "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"
+          github-token: "${{ secrets.RELEASE_NOTES_TOKEN }}"
           script: |
             try {
               const response = await github.rest.repos.createRelease({
