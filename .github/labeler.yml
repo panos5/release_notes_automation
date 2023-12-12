@@ -12,6 +12,6 @@ feature:
 bug:
   - head-branch: ["^fix", "fix"]
 
-  # Add 'release' label to any PR that is opened against the `main` branch
+# Add 'release' label to any PR that is opened against the `main` branch
 release:
-  - base-branch: "main"
+  - base-branch: "master"
